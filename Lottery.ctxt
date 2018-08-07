@@ -1,3 +1,13 @@
 #BlueJ class context
 comment0.target=Lottery
-numComments=1
+comment1.params=
+comment1.target=Lottery()
+comment2.params=
+comment2.target=Lottery\ getInstance()
+comment3.params=
+comment3.target=void\ genereaza()
+comment4.params=numerePariate
+comment4.target=int\ calculeaza(java.util.List)
+comment5.params=
+comment5.target=void\ afiseaza()
+numComments=6
